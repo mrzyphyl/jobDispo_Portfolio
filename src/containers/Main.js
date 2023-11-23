@@ -16,7 +16,7 @@ export default class Main extends Component {
       <BrowserRouter basename="/">
         <Switch>
           <Route
-            path="/mrzyphyl"
+            path="/"
             exact
             render={(props) =>
               settings.isSplash ? (
