@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "Job Gian Portfolio",
-  "homepage": "https://github.com/mrzyphyl",
+  "name": "job-gian-portfolio",
+  "homepage": "https://mrzyphyl.github.io/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
