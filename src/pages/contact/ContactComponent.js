@@ -10,7 +10,6 @@ import { Fade } from "react-reveal";
 import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../portfolio.js";
 
-
 const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
 const addressSection = contactPageData.addressSection;
@@ -29,7 +28,7 @@ class Contact extends Component {
                 <img
                   src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
                   alt=""
-                  style={{width: '500px', borderRadius: '100%'}}
+                  style={{ width: "500px", borderRadius: "100%" }}
                 />
               </div>
               <div className="contact-heading-text-div">
@@ -122,11 +121,28 @@ class Contact extends Component {
                   {phoneSection["subtitle"]}
                 </p>
                 <div className="address-btn-div">
-                  <form className="address-btn-div" method='POST' action="https://getform.io/f/9a958231-32db-4edf-b829-a62bb24f7f13">
-                    <input className="input-info" type="text" placeholder='Name' name='name'/>
-                    <input className="input-info" type="email" placeholder='Email' name='email'/>
-                    <textarea className="text-area" placeholder='Message'></textarea>
-                    <button className="main-button">Send</button>
+                  <form
+                    className="address-btn-div"
+                    method="POST"
+                    action="https://getform.io/f/9a958231-32db-4edf-b829-a62bb24f7f13"
+                  >
+                    <input
+                      className="input-info"
+                      type="text"
+                      placeholder="Name"
+                      name="name"
+                    />
+                    <input
+                      className="input-info"
+                      type="email"
+                      placeholder="Email"
+                      name="email"
+                    />
+                    <textarea
+                      className="text-area"
+                      placeholder="Message"
+                    ></textarea>
+                    <button className="send-button">Send</button>
                   </form>
                 </div>
               </div>
