@@ -1,1 +1,116 @@
-{"data":[{"id":"R_kgDOKPZLgQ","name":"Attendance-Management-System","createdAt":"2023-09-04T23:44:52Z","url":"https://github.com/mrzyphyl/Attendance-Management-System","description":"Aims to create a QR based real-time attendance of students per subject","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"R_kgDOKw9Tmw","name":"CliniQ","createdAt":"2023-11-23T05:47:59Z","url":"https://github.com/mrzyphyl/CliniQ","description":null,"isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"R_kgDOKRoScg","name":"Chronicles-of-Arcana","createdAt":"2023-09-10T08:44:47Z","url":"https://github.com/mrzyphyl/Chronicles-of-Arcana","description":"Capstone Project for 3rd Year","isFork":false,"languages":[{"name":"C#","iconifyClass":"logos-c-sharp"}]},{"id":"R_kgDOKewpYA","name":"ams-mobileapp","createdAt":"2023-10-11T04:25:54Z","url":"https://github.com/mrzyphyl/ams-mobileapp","description":null,"isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOKw9TvQ","name":"cliniq-mobileapp","createdAt":"2023-11-23T05:48:06Z","url":"https://github.com/mrzyphyl/cliniq-mobileapp","description":null,"isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOKf1JNQ","name":"pythoners","createdAt":"2023-10-13T10:09:25Z","url":"https://github.com/mrzyphyl/pythoners","description":null,"isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]}]}
+{
+  "data": [
+    {
+      "id": "R_kgDOKPZLgQ",
+      "name": "Attendance-Management-System",
+      "createdAt": "2023-09-04T23:44:52Z",
+      "url": "https://github.com/mrzyphyl/Attendance-Management-System",
+      "description": "Aims to create a QR based real-time attendance of students per subject",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKw9Tmw",
+      "name": "CliniQ",
+      "createdAt": "2023-11-23T05:47:59Z",
+      "url": "https://github.com/mrzyphyl/CliniQ",
+      "description": "Apppointment System for Clinics using QR Technology",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKewpYA",
+      "name": "ams-mobileapp",
+      "createdAt": "2023-10-11T04:25:54Z",
+      "url": "https://github.com/mrzyphyl/ams-mobileapp",
+      "description": "Mobile app for Attendance Management System that uses QR Technology to post and read attendance of Students per day",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKw9TvQ",
+      "name": "cliniq-mobileapp",
+      "createdAt": "2023-11-23T05:48:06Z",
+      "url": "https://github.com/mrzyphyl/cliniq-mobileapp",
+      "description": "Mobile app for Cliniq to read today's appointment of user",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKRoScg",
+      "name": "Chronicles-of-Arcana",
+      "createdAt": "2023-09-10T08:44:47Z",
+      "url": "https://github.com/mrzyphyl/Chronicles-of-Arcana",
+      "description": "Capstone Project for 3rd Year",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKf1JNQ",
+      "name": "pythoners",
+      "createdAt": "2023-10-13T10:09:25Z",
+      "url": "https://github.com/mrzyphyl/pythoners",
+      "description": "Simple CRUD system for flask framework",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
